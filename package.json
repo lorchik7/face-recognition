@@ -9,8 +9,6 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-particles-js": "^2.7.1",
-    //do not update to React v5
-    //see https://github.com/facebook/create-react-app/issues/11773
     "react-scripts": "^4.0.3",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.12.0"
@@ -39,5 +37,8 @@
   },
   "devDependencies": {
     "react-error-overlay": "6.0.9"
+  },
+  "commnets": {
+    "dependencies": "do not update react-scripts to v5, see issue https://github.com/facebook/create-react-app/issues/11773"
   }
 }
