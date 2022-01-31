@@ -6,7 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This [React.js] app (https://reactjs.org/) detects human faces on given photo.
+This [React.js](https://reactjs.org/) app detects human faces on given photo.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -46,4 +46,4 @@ This is an exercise part of The Complete Web Developer in 2022 course.
 * [Tachyons](https://tachyons.io/docs/)
 * [ZtM](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 * [Clarifi API](https://www.clarifai.com/)
-* [Tsparticles] (https://www.npmjs.com/package/tsparticles#ReactJS)
+* [Tsparticles](https://www.npmjs.com/package/tsparticles#ReactJS)
